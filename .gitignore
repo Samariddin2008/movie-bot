@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+.env
+api_token.py
+film.json
