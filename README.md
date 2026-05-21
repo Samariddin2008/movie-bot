@@ -284,6 +284,6 @@ python bot.py
 
 # 👨‍💻 Муаллиф
 
-**Akram Usmon**
+**Hakimov Samariddin**
 
 Telegram Movie Bot барои идоракунии автоматии филмҳо дар Telegram.
